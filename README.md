@@ -1,2 +1,1 @@
-# jquery_code_learn
-a project for jquery learn
+## 带着目的性去学习jqury的源码
